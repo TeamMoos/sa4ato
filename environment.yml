@@ -1,0 +1,14 @@
+# To use:
+#
+#   $ conda env create -f environment.yml
+#   $ conda activate sa4ato
+#
+name: sa4ato
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - python=3.9.7
+  - matplotlib
+  - pytest
+  - imageio
