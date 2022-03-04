@@ -16,4 +16,3 @@ Please contact us through Github if you have any questions.
 * [Timo Kühne](https://github.com/h3nkl3r)
 * [Jonathan Laib](https://github.com/jonathanlaib)
 
-
